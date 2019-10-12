@@ -1,3 +1,3 @@
 # Youth-Soccer-League-Project
 
-One of my first projects wich I will still update it as it's not reallt the best version of it.
+One of my first projects regarfing Youth Footbal League using only HTML and CSS featuring forms, google maps location and games schedule.
